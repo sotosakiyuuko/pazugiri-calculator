@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "stages": 36,
+    "swords": 55,
+    "dropMaterials": 33,
+    "recipes": 29,
+    "stageResults": 165,
+    "itemIcons": 62
+  },
+  "hashes": {
+    "stages": "dd7ae046cd9d6c6c9186ccbe8e1e9d9d657d273d14fef4a52dc229b826752cdd",
+    "swords": "41b915a8c60bb4c1bf60b58b01c11ebfe88941dedc301c5ef33e7c3bd4a9b019",
+    "dropMaterials": "6c6df84336a9f939045af699885ba4fcf38ee7cfaabea2c3786a2a72fbe29e6a",
+    "recipes": "5faec4651895869ad5d6cc3c4d41b3269b7accd59c5e1f5f9174f40a0bece750",
+    "stageResults": "f79008bea89f929eff2a0ed1ced72b4b45e3ab9e61b84aa5ba8917617ecd0e3e"
+  }
+}
